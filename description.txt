@@ -9,10 +9,15 @@ git pull origin master #pull the github to local repository
 git status  #will show recent changes whioch are untracked
 
 git add <name-of-file> #to add the file to repo
+git add -A # for adding all the files at a time.
 
 git config --global user.email "vikasjella26@gmail.com"
 
 git commit -m "added description.txt file"
+
+git commit -a -m "message"  #commiting all the files
+
+
  
 
  
