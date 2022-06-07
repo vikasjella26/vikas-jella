@@ -12,6 +12,7 @@ git add <name-of-file> #to add the file to repo
 
 git config --global user.email "vikasjella26@gmail.com"
 
-git commit 
+git commit -m "added description.txt file"
+ 
 
  
