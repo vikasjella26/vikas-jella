@@ -1,0 +1,8 @@
+# this isthe branching
+
+git branch <branch name>  # create a branch
+
+git checkout <branch name> # to swith a branch
+
+git merge <branch name> # will merge all the changes to master
+ 
