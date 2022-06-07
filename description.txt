@@ -1,0 +1,15 @@
+Git commands
+
+git init #initializes the git
+
+git remote add origin "https://github.com/vikasjella26/vikas-jella.git" #adding github to local git
+
+git pull origin master #pull the github to local repository
+
+git status  #will show recent changes whioch are untracked
+
+git add <name-of-file> #to add the file to repo
+
+
+
+ 
