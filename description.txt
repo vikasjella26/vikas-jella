@@ -10,6 +10,8 @@ git status  #will show recent changes whioch are untracked
 
 git add <name-of-file> #to add the file to repo
 
+git config --global user.email "vikasjella26@gmail.com"
 
+git commit 
 
  
