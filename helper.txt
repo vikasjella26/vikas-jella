@@ -1,0 +1,5 @@
+# this isthe branching
+
+git branch <branch name>  # create a branch
+
+git checkout <branch name> # to swith a branch 
